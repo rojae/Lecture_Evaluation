@@ -1,5 +1,8 @@
 # Lecture_Evaluation
 실제 학교 강의를 평가하기 위한 데모사이트
+
+<br>
+
 <ol> 메인, 평가 등록 </ol>
 <ol> 회원가입 </ol>
 <ol> 웹 메일 인증 </ol>
