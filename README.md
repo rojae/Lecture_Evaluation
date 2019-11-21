@@ -1,6 +1,6 @@
 # Lecture_Evaluation
 실제 학교 강의를 평가하기 위한 사이트 개발
-<br/><br/>
+<br><br>
 
 ### 메인화면
 ![2](https://user-images.githubusercontent.com/41769568/69305823-af92ff80-0c68-11ea-99a4-8833ed5623ad.JPG)
