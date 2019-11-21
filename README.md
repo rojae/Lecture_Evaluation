@@ -3,6 +3,7 @@
 <br><br>
 
 ---
+<br><br><br>
 
 ### 메인화면
 ![2](https://user-images.githubusercontent.com/41769568/69305823-af92ff80-0c68-11ea-99a4-8833ed5623ad.JPG)
